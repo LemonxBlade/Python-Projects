@@ -1,4 +1,4 @@
-#Timer by Anton 
+#Timer by LemonxBlade
 
 from sqlite3 import Time
 import time
@@ -26,6 +26,7 @@ while timeloop:
 #program will stop when x is pressed!
  
 ## will find out how soon!
+##any help welcome!
 
 
 print("Timer Stoped") 
