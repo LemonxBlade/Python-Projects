@@ -1,4 +1,4 @@
-#HangMan
+#HangMan#
 
 import random
 
